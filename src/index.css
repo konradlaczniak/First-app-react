@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+section {
+  padding: 30px;
+  border: 1px solid grey;
+  width:300px;
+  text-align: right;
+}
+
+.validation p{
+  color: red;
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+.inputRow {
+  margin-bottom: 0.5rem;
+}
+
